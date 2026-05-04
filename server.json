@@ -1,7 +1,7 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
   "name": "com.transcriptmagic/transcript-magic",
-  "description": "Generate transcripts from YouTube, TikTok, Instagram, and Facebook videos. Returns plain-text transcripts; lists the user's transcript history; reports remaining credit balance. OAuth-authenticated via Google.",
+  "description": "Generate transcripts from YouTube, TikTok, Instagram, and Facebook videos.",
   "version": "1.0.0",
   "websiteUrl": "https://transcriptmagic.com",
   "repository": {
