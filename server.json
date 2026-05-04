@@ -1,0 +1,21 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
+  "name": "com.transcriptmagic/transcript-magic",
+  "description": "Generate transcripts from YouTube, TikTok, Instagram, and Facebook videos. Returns plain-text transcripts; lists the user's transcript history; reports remaining credit balance. OAuth-authenticated via Google.",
+  "version": "1.0.0",
+  "websiteUrl": "https://transcriptmagic.com",
+  "repository": {
+    "url": "https://github.com/TranscriptMagic/mcp-server",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.transcriptmagic.com/mcp"
+    },
+    {
+      "type": "sse",
+      "url": "https://mcp.transcriptmagic.com/sse"
+    }
+  ]
+}
