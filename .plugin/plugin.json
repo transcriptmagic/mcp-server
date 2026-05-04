@@ -1,0 +1,27 @@
+{
+  "name": "transcript-magic",
+  "version": "1.0.0",
+  "description": "Generate transcripts from YouTube, TikTok, Instagram, and Facebook videos.",
+  "author": {
+    "name": "TranscriptMagic",
+    "email": "hello@transcriptmagic.com",
+    "url": "https://transcriptmagic.com"
+  },
+  "homepage": "https://transcriptmagic.com",
+  "repository": "https://github.com/TranscriptMagic/mcp-server",
+  "license": "MIT",
+  "logo": "logo.png",
+  "keywords": [
+    "mcp",
+    "transcript",
+    "video",
+    "youtube",
+    "tiktok",
+    "instagram",
+    "facebook",
+    "transcription",
+    "video-to-text",
+    "captions"
+  ],
+  "mcpServers": ".mcp.json"
+}
